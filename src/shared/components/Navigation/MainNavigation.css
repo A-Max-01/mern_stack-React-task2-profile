@@ -1,0 +1,24 @@
+.Nav{
+  padding: 10px;
+}
+
+.Nav a{
+  /* color: #90A1D5; */
+  padding: 10px;
+  text-decoration: none;
+}
+
+.right-section{
+  position: absolute;
+   right: 0;
+}
+
+.SideDrawer__navlinks {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.SideDrawer__navlinks a{
+  margin-top: 30px;
+}

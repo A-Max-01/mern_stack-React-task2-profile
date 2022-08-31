@@ -1,0 +1,8 @@
+.project{
+    transition: transform 0.2s linear;
+    box-shadow: var(--shadow);
+}
+
+.project:hover{
+    transform: translateY(-12px);
+}
